@@ -1,1 +1,1 @@
-[tableaux_tp_complete.docx](https://github.com/user-attachments/files/23487225/tableaux_tp_complete.docx)
+[tableaux_tp_complete.pdf](https://github.com/user-attachments/files/23487284/tableaux_tp_complete.pdf)
