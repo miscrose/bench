@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1762745400000,38,GET /items?page=0&size=20,200,OK,Thread Group 1-1,text,true,,2048,0,1,1,http://localhost:8082/items?page=0&size=20,35,0,4
+1762745400038,108,POST /items,201,Created,Thread Group 1-2,text,true,,1024,1024,1,2,http://localhost:8082/items,102,0,7
+1762745400146,85,PUT /items/1,200,OK,Thread Group 1-3,text,true,,1024,1024,1,3,http://localhost:8082/items/1,80,0,6
+1762745400231,30,DELETE /items/1,204,No Content,Thread Group 1-4,text,true,,0,0,1,4,http://localhost:8082/items/1,28,0,3
+1762745400261,42,POST /categories,201,Created,Thread Group 1-5,text,true,,512,512,1,5,http://localhost:8082/categories,38,0,5
+1762745400303,38,PUT /categories/1,200,OK,Thread Group 1-6,text,true,,512,512,1,6,http://localhost:8082/categories/1,35,0,4
